@@ -37,3 +37,5 @@ Al eliminar un producto, este desaparece del carrito y el precio total se actual
 Criterios de Rechazo:
 No se puede eliminar productos del carrito.
 Al eliminar un producto, el precio total no se actualiza.
+![image](https://github.com/user-attachments/assets/e0914268-2173-4894-9eac-06954b1b1ef1)
+
